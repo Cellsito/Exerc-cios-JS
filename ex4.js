@@ -16,5 +16,6 @@ if (media >= 7.0) {
 }else if (media >=5.0) {
     console.warn("RECUPERAÇÃO!!!")
 
-}else
+}else {
     console.error("REPROVADO!!! >:(")
+}

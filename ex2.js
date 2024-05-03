@@ -25,8 +25,9 @@ if (diasemana == 1) {
 }else if (diasemana == 7) {
     console.log("Domingo")
     
-}else
+}else {
     console.error("Esse número não consta!!!")
+}
     
 
 

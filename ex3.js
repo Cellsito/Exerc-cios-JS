@@ -4,5 +4,6 @@ let number = parseInt (prompt("Digite um número:"))
 
 if (number % 2 == 0) {
     console.log("Esse número é par!")
-}else 
+}else {
     console.log("Esse número é ímpar!")
+}
