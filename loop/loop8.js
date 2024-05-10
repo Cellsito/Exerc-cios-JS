@@ -5,8 +5,8 @@
 let idade = parseInt(prompt("Qual a sua idade?"))
 
 while (idade < 18) {
-    idade = parseInt(prompt("Qual a sua idade?"))
+    idade = parseInt(prompt("😑Qual a sua idade?"))
     
 }
 
-console.log("VOCÊ É MAIOR DE IDADEEE!!! :D");
+console.log("VOCÊ É MAIOR DE IDADEEE!!! 🫡");

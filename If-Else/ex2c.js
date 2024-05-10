@@ -10,27 +10,27 @@ switch (diasemana) {
         console.log("Segunda-feira")
         break;
         
-    case "1":
+    case "2":
         console.log("Terça-feira")
         break;
 
-    case "1":
+    case "3":
         console.log("Quarta-feira")
         break;    
 
-    case "1":
+    case "4":
         console.log("Quinta-feira")
         break;  
 
-    case "1":
+    case "5":
         console.log("Sexta-feira")
         break;
 
-    case "1":
+    case "6":
         console.log("Sábado")
         break;  
 
-    case "1":
+    case "7":
         console.log("Domingo")
         break; 
 
